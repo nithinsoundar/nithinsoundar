@@ -1,10 +1,6 @@
-### Hi there, this is Nithin👋
+<h2 align="left">Hi there, this is <a href="https://www.linkedin.com/in/nithin-soundar-2628a6199/" target="_blank" rel="noopener noreferrer">Nithin</a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30" />
 
-<hr>
-
-⚡I'm a Electronics and Communication Engineering undergrad.
-
-<hr>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <div>
   <a href="https://github.com/nithinsoundar">
