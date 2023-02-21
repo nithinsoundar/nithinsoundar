@@ -13,8 +13,8 @@
   
   # Contact 
 <div> 
-  <a href="https://www.linkedin.com/in/nithin-soundar-2628a6199/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" width="90" height="30"></a> 
-  <a href = "mailto: nithinsoundar@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" width="70" height="30"></a>
+  <a href="https://www.linkedin.com/in/nithin-soundar-2628a6199/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" width="90" height="25"></a> 
+  <a href = "mailto: nithinsoundar@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" width="70" height="25"></a>
  </br>
 </br>
  
