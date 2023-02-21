@@ -2,6 +2,7 @@
 
 <hr>
 
+⚡I'm a Electronics and Communication Engineering undergrad.
 <!--
 **nithinsoundar/nithinsoundar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
