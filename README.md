@@ -1,4 +1,4 @@
-### Hi there, this is Nithin.👋
+### Hi there, this is Nithin👋
 
 <!--
 **nithinsoundar/nithinsoundar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
