@@ -3,7 +3,7 @@
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
   
  <br/>
-<img height="137px" width ="100px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nithinsoundar&theme=holi-theme&layout=compact" alt="mytoplang"/>
+<img height="137px" width="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nithinsoundar&theme=holi-theme&layout=compact" alt="mytoplang"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nithinsoundar&theme=holi-theme" alt="mystreak"/>
   
   ### Contact
